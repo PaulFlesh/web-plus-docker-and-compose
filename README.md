@@ -1,7 +1,7 @@
 # web-plus-docker-and-compose
 
-IP адрес: 
+IP адрес: 51.250.85.30
 
-Frontend: 
+Frontend: https://kupipodariday.nomoredomainswork.ru
 
-Backend: 
+Backend: https://api.kupipodariday.nomoredomainswork.ru
